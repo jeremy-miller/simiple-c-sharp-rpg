@@ -1,2 +1,2 @@
-# simiple-c-sharp-rpg
-Code for the "Learn C# by Building a Simple RPG" tutorial
+# Simiple C# RPG
+Code for the [Learn C# by Building a Simple RPG](https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/) tutorial.
